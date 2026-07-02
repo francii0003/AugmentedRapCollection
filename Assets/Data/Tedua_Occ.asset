@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c49fe512c55ac84fa93f5e45e461d6f, type: 3}
+  m_Name: Tedua_Occ
+  m_EditorClassIdentifier: Assembly-CSharp::AugmentedRapCollection.AlbumData
+  referenceImageName: Tedua_Occ
+  artist: Tedua
+  albumTitle: Orange County California
+  releaseYear: 2017
+  genre: Drill / Trap
+  keyTracks:
+  - Buste Della Spesa
+  - Pugile
+  - Lingerie
+  funFact: The title is inspired by the character Ryan Atwood from the TV series
+    "The O.C.", a metaphor for Tedua's move from Cogoleto to Milan. Tedua's unique
+    "out-of-time" flow was heavily criticized at first, but it became his trademark
+    style.

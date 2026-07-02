@@ -1,0 +1,8 @@
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Bb]uilds/
+/UserSettings/
+/*.csproj
+/*.sln
+*.apk
+*.utmp

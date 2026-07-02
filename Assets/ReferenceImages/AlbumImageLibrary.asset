@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: AlbumImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5264505295166124867
+  m_GuidHigh: 11630486777534734505
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5119622988675026211
+      m_GuidHigh: 7583318354878025364
+    m_SerializedTextureGuid:
+      m_GuidLow: 6702585056018601244
+      m_GuidHigh: 14289519284720772616
+    m_Size: {x: 0.5, y: 0.4935}
+    m_SpecifySize: 1
+    m_Name: Tedua_Occ
+    m_Texture: {fileID: 2800000, guid: bcd4951c5d985d040826e09014924ec6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5364463478432159467
+      m_GuidHigh: 3314817912917129098
+    m_SerializedTextureGuid:
+      m_GuidLow: 9346364649586789504
+      m_GuidHigh: 5995870548089920408
+    m_Size: {x: 0.5, y: 0.5004682}
+    m_SpecifySize: 1
+    m_Name: Marracash_Persona
+    m_Texture: {fileID: 2800000, guid: 2fe38c80f52181b4985b20fa7e9c3553, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5460949475054342404
+      m_GuidHigh: 12136256746675785661
+    m_SerializedTextureGuid:
+      m_GuidLow: 14750645050893150093
+      m_GuidHigh: 5428806779957422793
+    m_Size: {x: 0.5, y: 0.5}
+    m_SpecifySize: 1
+    m_Name: Lazza_ReMida
+    m_Texture: {fileID: 2800000, guid: 825c278dd185ccb4c92a98d900ff564b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5536690441636515178
+      m_GuidHigh: 10424432536551805068
+    m_SerializedTextureGuid:
+      m_GuidLow: 11949371063375830215
+      m_GuidHigh: 9405714267702091065
+    m_Size: {x: 0.5, y: 0.5}
+    m_SpecifySize: 1
+    m_Name: Ernia_Psepa
+    m_Texture: {fileID: 2800000, guid: f1d91cc7b1aba5d439dd34f94acf8782, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5732467893243737312
+      m_GuidHigh: 18436734658418727305
+    m_SerializedTextureGuid:
+      m_GuidLow: 13440124834975852366
+      m_GuidHigh: 13183067202165448057
+    m_Size: {x: 0.5, y: 0.5}
+    m_SpecifySize: 1
+    m_Name: Salmo_Hellvisback
+    m_Texture: {fileID: 2800000, guid: 1da4274eea54ba84799d2c03c6a9f3b6, type: 3}

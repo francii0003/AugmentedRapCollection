@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c49fe512c55ac84fa93f5e45e461d6f, type: 3}
+  m_Name: Marracash_Persona
+  m_EditorClassIdentifier: Assembly-CSharp::AugmentedRapCollection.AlbumData
+  referenceImageName: Marracash_Persona
+  artist: Marracash
+  albumTitle: Persona
+  releaseYear: 2019
+  genre: Conscious Hip Hop
+  keyTracks:
+  - Crudelia (I Nervi)
+  - Bravi a Cadere (I Polmoni)
+  - SUPREME (L'Ego)
+  funFact: The title and cover art are a direct homage to Ingmar Bergman's 1966 masterpiece
+    film Persona. Furthermore, it is a concept album where every single track is
+    explicitly linked to a specific part of the human body or a psychological trait.
